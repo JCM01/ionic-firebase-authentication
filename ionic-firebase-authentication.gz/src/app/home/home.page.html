@@ -1,0 +1,31 @@
+
+<ion-content class="auth-form">
+
+  
+  
+  <div class="stage">
+      <div class="box bounce-2">
+        <!--<img src="http://www.clker.com/cliparts/j/3/Z/Y/D/5/dog-head-md.png">-->
+        <img src="assets/img/logo.png" alt="logo">
+      </div>
+      <h3>ShelterPet</h3>
+  </div>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col class="ion-align-self-center">
+        <ion-button
+          [routerLink]="['/registration']"
+          expand="block"
+          color="primary"
+          >Register</ion-button
+        >
+        <p class="already"> Already a user?</p>
+   
+        <ion-button [routerLink]="['/login']" expand="block" color="danger"
+          >Sign In</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

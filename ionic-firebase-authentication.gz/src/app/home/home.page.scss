@@ -1,0 +1,100 @@
+/*#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}*/
+
+
+/*
+#container {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.dog-head {
+  z-index: 100;
+  -webkit-animation: head-move 1s ease-in-out infinite;
+}
+
+div.dog-body {
+  height: 300px;
+  width: 225px;
+  margin-top: -175px;
+  margin-left: 40px;
+  background-image: url('http://www.clker.com/cliparts/T/0/9/J/e/4/dog-body-md.png');
+  background-repeat: no-repeat;
+}
+
+
+@-webkit-keyframes head-move {
+  50% { 
+    -webkit-transform: rotate(-1.5deg); 
+  }
+}*/
+
+
+
+h3{
+  font-family: 'lobster';
+  font-size: 48px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.already {
+font-family: 'Source Sans Pro', sans-serif;
+text-align: center;
+margin: 0.5em;
+
+}
+
+ion-button{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.stage {
+  margin-top: 75px;
+ 
+}
+.box {
+  align-self: flex-end;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  height: 120px;
+  margin: 0 auto 0 auto;
+  transform-origin: bottom;
+  width: 120px;
+}
+.bounce-2 {
+  animation-name: bounce-2;
+  animation-timing-function: 1s ease-in-out;
+}
+@keyframes bounce-2 {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-30px); }
+  100% { transform: translateY(0); }
+}
+
