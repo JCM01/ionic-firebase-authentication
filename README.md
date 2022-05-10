@@ -15,7 +15,8 @@ The data stores in local Storage as User in Firebase.
 
 ![image](https://user-images.githubusercontent.com/57594425/167570657-71785753-1af2-4267-b91b-efc7652dc5bb.png)
 
-![image](https://user-images.githubusercontent.com/57594425/167571745-6362cd15-dbb2-4b13-b62e-260816382ab4.png)
+![image](https://user-images.githubusercontent.com/57594425/167573860-ac9c17eb-a880-45bd-b22c-bacf0744885c.png)
+
 
 
 More content will be coming! Part two upcoming!
