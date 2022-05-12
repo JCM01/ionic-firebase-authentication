@@ -6,7 +6,7 @@ This is part one of my project a Login, Register with an Email-Verification, Pas
 
 My logo is a PNG image with movement up and down using CSS animation ease-in-out.
 
-The data stores in local Storage as User in Firebase.
+The data stores in local Storage as User in Firebase only verify accounts as Gmail and accounts who register as normal email stays in Authentication including Gmail accounts.
 
 
 ![image](https://user-images.githubusercontent.com/57594425/167570596-9f7cf6b5-d559-470d-9bb6-50717a93200a.png)
