@@ -1,4 +1,4 @@
-# This is PART ONE of my project an ionic-firebase-authentication fully working!
+# This is a service integration of my project an ionic-firebase-authentication fully working!
 
 I'm developing an app with Ionic-Angular to create my project about pet adoption to reunite owners that can't take care any more of their pets and pet shelters, so users can adopt pets easier than before. 
 
